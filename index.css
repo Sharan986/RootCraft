@@ -8,6 +8,7 @@ html,
 body {
     background-color: #D8EFD3;
     margin-left: px;
+    overflow-x: auto;
 }
 
 #img1 {
