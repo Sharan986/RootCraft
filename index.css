@@ -7,8 +7,7 @@
 html,
 body {
     background-color: #D8EFD3;
-    margin-left: px;
-    overflow-x: hidden;
+    overflow-x: auto;
 }
 
 #img1 {
@@ -23,9 +22,6 @@ body {
     font-family: Lato;
     width: 90%;
     margin-left: 80px;
-
-
-
 
 }
 
@@ -53,9 +49,6 @@ body {
     justify-content: space-around;
     gap: 50px;
     align-items: center;
-
-
-
 }
 
 #p2 {
@@ -136,7 +129,7 @@ body {
 #sec21 {
     background-color: #D8EFD3;
     height: 800px;
-    margin-top: 80px;
+    margin-top: 10px;
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -261,16 +254,19 @@ body {
 }
 
 #know {
-    background-color: #3edb1b;
+    background-color: #97c98b;
     height: 600px;
     display: flex;
     justify-content: center;
+    margin: 0 20px 0 20px;
 
 }
 #abaa{
-    height: 570px;
+    height: 600px;
     width: 800px;
-    padding-top: 60px;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    
 }
 #txt1{
     
@@ -359,7 +355,7 @@ body {
     height: 800px;
     display: flex;
     justify-content: space-between;
-    padding: 30px 120px 0 120px;
+    padding: 30px 0 0 120px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-bottom: 0;
 }
